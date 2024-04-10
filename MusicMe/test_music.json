@@ -1,0 +1,472 @@
+[
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.045217990875244
+            },
+            "body": {
+                "track_list": [
+                    {
+                        "track": {
+                            "track_id": 272451645,
+                            "track_name": "Beautiful Things",
+                            "track_name_translation_list": [],
+                            "track_rating": 100,
+                            "commontrack_id": 169583464,
+                            "instrumental": 0,
+                            "explicit": 0,
+                            "has_lyrics": 1,
+                            "has_subtitles": 1,
+                            "has_richsync": 1,
+                            "num_favourite": 98,
+                            "album_id": 61128291,
+                            "album_name": "Beautiful Things",
+                            "artist_id": 51203092,
+                            "artist_name": "Benson Boone",
+                            "track_share_url": "https://www.musixmatch.com/lyrics/Benson-Boone/Beautiful-Things?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "track_edit_url": "https://www.musixmatch.com/lyrics/Benson-Boone/Beautiful-Things/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "restricted": 0,
+                            "updated_time": "2024-02-26T15:56:49Z",
+                            "primary_genres": {
+                                "music_genre_list": [
+                                    {
+                                        "music_genre": {
+                                            "music_genre_id": 14,
+                                            "music_genre_parent_id": 34,
+                                            "music_genre_name": "Pop",
+                                            "music_genre_name_extended": "Pop",
+                                            "music_genre_vanity": "Pop"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "track": {
+                            "track_id": 258292930,
+                            "track_name": "Lose Control",
+                            "track_name_translation_list": [],
+                            "track_rating": 100,
+                            "commontrack_id": 160490732,
+                            "instrumental": 0,
+                            "explicit": 0,
+                            "has_lyrics": 1,
+                            "has_subtitles": 1,
+                            "has_richsync": 1,
+                            "num_favourite": 192,
+                            "album_id": 57454642,
+                            "album_name": "I've Tried Everything But Therapy (Part 1)",
+                            "artist_id": 38425803,
+                            "artist_name": "Teddy Swims",
+                            "track_share_url": "https://www.musixmatch.com/lyrics/Teddy-Swims/Lose-Control?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "track_edit_url": "https://www.musixmatch.com/lyrics/Teddy-Swims/Lose-Control/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "restricted": 0,
+                            "updated_time": "2023-08-09T14:50:27Z",
+                            "primary_genres": {
+                                "music_genre_list": [
+                                    {
+                                        "music_genre": {
+                                            "music_genre_id": 14,
+                                            "music_genre_parent_id": 34,
+                                            "music_genre_name": "Pop",
+                                            "music_genre_name_extended": "Pop",
+                                            "music_genre_vanity": "Pop"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "track": {
+                            "track_id": 259245201,
+                            "track_name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+                            "track_name_translation_list": [],
+                            "track_rating": 100,
+                            "commontrack_id": 161074192,
+                            "instrumental": 0,
+                            "explicit": 0,
+                            "has_lyrics": 1,
+                            "has_subtitles": 1,
+                            "has_richsync": 1,
+                            "num_favourite": 312,
+                            "album_id": 57610143,
+                            "album_name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+                            "artist_id": 29247465,
+                            "artist_name": "Billie Eilish",
+                            "track_share_url": "https://www.musixmatch.com/lyrics/Billie-Eilish/What-Was-I-Made-For-From-The-Motion-Picture-Barbie?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "track_edit_url": "https://www.musixmatch.com/lyrics/Billie-Eilish/What-Was-I-Made-For-From-The-Motion-Picture-Barbie/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "restricted": 0,
+                            "updated_time": "2024-03-11T00:42:03Z",
+                            "primary_genres": {
+                                "music_genre_list": [
+                                    {
+                                        "music_genre": {
+                                            "music_genre_id": 16,
+                                            "music_genre_parent_id": 34,
+                                            "music_genre_name": "Soundtrack",
+                                            "music_genre_name_extended": "Soundtrack",
+                                            "music_genre_vanity": "Soundtrack"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "track": {
+                            "track_id": 275242628,
+                            "track_name": "TEXAS HOLD 'EM",
+                            "track_name_translation_list": [],
+                            "track_rating": 100,
+                            "commontrack_id": 171226492,
+                            "instrumental": 0,
+                            "explicit": 1,
+                            "has_lyrics": 1,
+                            "has_subtitles": 1,
+                            "has_richsync": 1,
+                            "num_favourite": 36,
+                            "album_id": 61869632,
+                            "album_name": "TEXAS HOLD 'EM",
+                            "artist_id": 18927,
+                            "artist_name": "Beyonc\u00e9",
+                            "track_share_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/TEXAS-HOLD-EM?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "track_edit_url": "https://www.musixmatch.com/lyrics/Beyonc%C3%A9/TEXAS-HOLD-EM/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "restricted": 0,
+                            "updated_time": "2024-02-14T17:37:01Z",
+                            "primary_genres": {
+                                "music_genre_list": [
+                                    {
+                                        "music_genre": {
+                                            "music_genre_id": 6,
+                                            "music_genre_parent_id": 34,
+                                            "music_genre_name": "Country",
+                                            "music_genre_name_extended": "Country",
+                                            "music_genre_vanity": "Country"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "track": {
+                            "track_id": 85572774,
+                            "track_name": "All By Myself - Remastered",
+                            "track_name_translation_list": [],
+                            "track_rating": 98,
+                            "commontrack_id": 76082088,
+                            "instrumental": 0,
+                            "explicit": 0,
+                            "has_lyrics": 1,
+                            "has_subtitles": 1,
+                            "has_richsync": 1,
+                            "num_favourite": 8,
+                            "album_id": 20980801,
+                            "album_name": "The Definitive Collection",
+                            "artist_id": 378,
+                            "artist_name": "Eric Carmen",
+                            "track_share_url": "https://www.musixmatch.com/lyrics/Eric-Carmen/All-By-Myself-Remastered-1997?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "track_edit_url": "https://www.musixmatch.com/lyrics/Eric-Carmen/All-By-Myself-Remastered-1997/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                            "restricted": 0,
+                            "updated_time": "2020-04-13T13:11:55Z",
+                            "primary_genres": {
+                                "music_genre_list": [
+                                    {
+                                        "music_genre": {
+                                            "music_genre_id": 14,
+                                            "music_genre_parent_id": 34,
+                                            "music_genre_name": "Pop",
+                                            "music_genre_name_extended": "Pop",
+                                            "music_genre_vanity": "Pop"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.074311017990112
+            },
+            "body": {
+                "artist": {
+                    "artist_id": 24394204,
+                    "artist_name": "Pastel Ghost",
+                    "artist_name_translation_list": [],
+                    "artist_comment": "",
+                    "artist_country": "US",
+                    "artist_alias_list": [],
+                    "artist_rating": 53,
+                    "artist_twitter_url": "pastel_ghost",
+                    "artist_credits": {
+                        "artist_list": []
+                    },
+                    "restricted": 0,
+                    "updated_time": "2016-11-20T02:51:58Z",
+                    "begin_date_year": "",
+                    "begin_date": "0000-00-00",
+                    "end_date_year": "",
+                    "end_date": "0000-00-00"
+                }
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.011543989181519
+            },
+            "body": {
+                "artist": {
+                    "artist_id": 12426703,
+                    "artist_name": "Grimes",
+                    "artist_name_translation_list": [],
+                    "artist_comment": "",
+                    "artist_country": "CA",
+                    "artist_alias_list": [
+                        {
+                            "artist_alias": "Claire Elise Boucher"
+                        }
+                    ],
+                    "artist_rating": 60,
+                    "artist_twitter_url": "https://twitter.com/Grimezsz",
+                    "artist_credits": {
+                        "artist_list": []
+                    },
+                    "restricted": 0,
+                    "updated_time": "2013-11-05T11:29:16Z",
+                    "begin_date_year": "1988",
+                    "begin_date": "1988-03-17",
+                    "end_date_year": "",
+                    "end_date": "0000-00-00"
+                }
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.0311279296875
+            },
+            "body": {
+                "artist": {
+                    "artist_id": 374881,
+                    "artist_name": "Mr.Kitty",
+                    "artist_name_translation_list": [],
+                    "artist_comment": "",
+                    "artist_country": "",
+                    "artist_alias_list": [
+                        {
+                            "artist_alias": "Mr.Kitty"
+                        }
+                    ],
+                    "artist_rating": 34,
+                    "artist_twitter_url": "http://twitter.com/mrkittydm",
+                    "artist_credits": {
+                        "artist_list": []
+                    },
+                    "restricted": 0,
+                    "updated_time": "2013-06-25T22:45:00Z",
+                    "begin_date_year": "",
+                    "begin_date": "0000-00-00",
+                    "end_date_year": "",
+                    "end_date": "0000-00-00"
+                }
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.0071010589599609
+            },
+            "body": {
+                "track": {
+                    "track_id": 166963812,
+                    "track_name": "Whip",
+                    "track_name_translation_list": [],
+                    "track_rating": 39,
+                    "commontrack_id": 93754030,
+                    "instrumental": 0,
+                    "explicit": 0,
+                    "has_lyrics": 1,
+                    "has_subtitles": 1,
+                    "has_richsync": 0,
+                    "num_favourite": 1,
+                    "album_id": 31781851,
+                    "album_name": "Ephemeral",
+                    "artist_id": 56594707,
+                    "artist_name": "Mr.Kitty",
+                    "track_share_url": "https://www.musixmatch.com/lyrics/Mr-Kitty/Whip?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "track_edit_url": "https://www.musixmatch.com/lyrics/Mr-Kitty/Whip/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "restricted": 0,
+                    "updated_time": "2023-07-20T18:06:52Z",
+                    "primary_genres": {
+                        "music_genre_list": [
+                            {
+                                "music_genre": {
+                                    "music_genre_id": 7,
+                                    "music_genre_parent_id": 34,
+                                    "music_genre_name": "Electronic",
+                                    "music_genre_name_extended": "Electronic",
+                                    "music_genre_vanity": "Electronic"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.0094490051269531
+            },
+            "body": {
+                "track": {
+                    "track_id": 166963798,
+                    "track_name": "Be Alive",
+                    "track_name_translation_list": [],
+                    "track_rating": 39,
+                    "commontrack_id": 93753977,
+                    "instrumental": 0,
+                    "explicit": 0,
+                    "has_lyrics": 1,
+                    "has_subtitles": 1,
+                    "has_richsync": 0,
+                    "num_favourite": 1,
+                    "album_id": 31781851,
+                    "album_name": "Ephemeral",
+                    "artist_id": 56594707,
+                    "artist_name": "Mr.Kitty",
+                    "track_share_url": "https://www.musixmatch.com/lyrics/Mr-Kitty/Be-Alive?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "track_edit_url": "https://www.musixmatch.com/lyrics/Mr-Kitty/Be-Alive/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "restricted": 0,
+                    "updated_time": "2023-07-20T18:06:44Z",
+                    "primary_genres": {
+                        "music_genre_list": [
+                            {
+                                "music_genre": {
+                                    "music_genre_id": 7,
+                                    "music_genre_parent_id": 34,
+                                    "music_genre_name": "Electronic",
+                                    "music_genre_name_extended": "Electronic",
+                                    "music_genre_vanity": "Electronic"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.009552001953125
+            },
+            "body": {
+                "track": {
+                    "track_id": 127351886,
+                    "track_name": "After Dark",
+                    "track_name_translation_list": [],
+                    "track_rating": 86,
+                    "commontrack_id": 40911632,
+                    "instrumental": 0,
+                    "explicit": 0,
+                    "has_lyrics": 1,
+                    "has_subtitles": 1,
+                    "has_richsync": 1,
+                    "num_favourite": 319,
+                    "album_id": 25769703,
+                    "album_name": "Time",
+                    "artist_id": 56594707,
+                    "artist_name": "Mr.Kitty",
+                    "track_share_url": "https://www.musixmatch.com/lyrics/Mr-Kitty/After-Dark?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "track_edit_url": "https://www.musixmatch.com/lyrics/Mr-Kitty/After-Dark/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "restricted": 0,
+                    "updated_time": "2023-07-20T18:06:43Z",
+                    "primary_genres": {
+                        "music_genre_list": [
+                            {
+                                "music_genre": {
+                                    "music_genre_id": 7,
+                                    "music_genre_parent_id": 34,
+                                    "music_genre_name": "Electronic",
+                                    "music_genre_name_extended": "Electronic",
+                                    "music_genre_vanity": "Electronic"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "message": {
+            "header": {
+                "status_code": 200,
+                "execute_time": 0.0093040466308594
+            },
+            "body": {
+                "track": {
+                    "track_id": 259609431,
+                    "track_name": "HYAENA",
+                    "track_name_translation_list": [
+                        {
+                            "track_name_translation": {
+                                "language": "u0",
+                                "translation": "HYAENA"
+                            }
+                        }
+                    ],
+                    "track_rating": 63,
+                    "commontrack_id": 164378118,
+                    "instrumental": 0,
+                    "explicit": 1,
+                    "has_lyrics": 1,
+                    "has_subtitles": 1,
+                    "has_richsync": 1,
+                    "num_favourite": 0,
+                    "album_id": 57722634,
+                    "album_name": "UTOPIA",
+                    "artist_id": 14382416,
+                    "artist_name": "Travis Scott",
+                    "track_share_url": "https://www.musixmatch.com/lyrics/Travis-Scott/HYAENA-2?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "track_edit_url": "https://www.musixmatch.com/lyrics/Travis-Scott/HYAENA-2/edit?utm_source=application&utm_campaign=api&utm_medium=1%3A1409624331354",
+                    "restricted": 0,
+                    "updated_time": "2023-10-30T14:28:48Z",
+                    "primary_genres": {
+                        "music_genre_list": [
+                            {
+                                "music_genre": {
+                                    "music_genre_id": 18,
+                                    "music_genre_parent_id": 34,
+                                    "music_genre_name": "Hip Hop/Rap",
+                                    "music_genre_name_extended": "Hip-Hop/Rap",
+                                    "music_genre_vanity": "Hip-Hop-Rap"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

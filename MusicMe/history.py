@@ -1,0 +1,1 @@
+{"Songs": ["Beautiful Things", "Lose Control", "What Was I Made For? [From The Motion Picture \"Barbie\"]", "TEXAS HOLD 'EM", "All By Myself - Remastered", "Whip", "Be Alive", "After Dark", "HYAENA"], "Artists": ["Benson Boone", "Teddy Swims", "Billie Eilish", "Beyonc\u00e9", "Eric Carmen", "Pastel Ghost", "Grimes", "Mr.Kitty"]}
